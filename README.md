@@ -5,7 +5,7 @@
 - <b>Computer Programming for Problem Solving</b>
   - [Singapore Electricity Consumption in Python](https://github.com/JarenIsBored/Singapore-Electricity-Consumption)
 - <b>Object Oriented Programming </b>
-  - [IPhone Store in Java](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Using Eclipse)</b></i>
+  - [IPhone Store in Java](https://github.com/JarenIsBored/iPhone-Ordering-Application) <b><i>(Using Eclipse)</b></i>
 - <b>Microcontroller Application</b>
   - [Hydroelectric-Dam_Proj in C](https://github.com/JarenIsBored/Hydroelectric-Dam_Proj) <b><i>(Using MPLAB X IDE)</b></i>
 
